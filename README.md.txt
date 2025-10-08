@@ -4,13 +4,13 @@ This project focuses on detecting fraudulent credit card transactions using Logi
 
 ## Project Description
 The main objectives of the project are:
-- Analyze credit card transaction data
+- Explore and analyze credit card transaction data
 - Detect fraudulent transactions
+- Handle imbalanced dataset using SMOTE and class weighting
 - Evaluate the model using Confusion Matrix, ROC Curve, and Precision-Recall Curve
 
 ## Files
 - `analysis.ipynb` - Jupyter Notebook containing all the code, analysis, and plots
-- `data/creditcard.csv` - Dataset used for the project
 - `README.md` - This file
 
 ## How to Run
@@ -23,8 +23,7 @@ The dataset used can be downloaded from Kaggle:
 [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 ## Results
-All plots and analysis are displayed directly inside the Notebook.
+All plots and analysis are displayed directly inside the Notebook. The model performance improved by handling the dataset imbalance with **SMOTE** and **balanced class weights**.
 
 ## Author
-[zaid karem issa]
-
+Zaid Karem Issa
