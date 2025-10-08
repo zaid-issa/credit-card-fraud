@@ -18,8 +18,13 @@ The main objectives of the project are:
 2. Open Jupyter Notebook in the project folder.
 3. Run `analysis.ipynb` step by step to reproduce the analysis and plots.
 
+## Dataset
+The dataset used can be downloaded from Kaggle:
+[Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
 ## Results
 All plots and analysis are displayed directly inside the Notebook.
 
 ## Author
 [zaid karem issa]
+
